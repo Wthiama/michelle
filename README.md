@@ -1,4 +1,4 @@
-# Olá! Me chamo Michelle. Sejam bem vindxs🌈
+# Olá! Me chamo Michelle. Sejam bem vindos🌈
 
 - 😁 Descobrindo o mundo da programação, e já não quero mais sair dele
 - 💻 Estudando Html, Css e JavaScript
